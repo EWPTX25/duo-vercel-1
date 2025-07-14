@@ -1,0 +1,5 @@
+/pages
+  ├── index.js          ← Your homepage (should exist!)
+  └── api
+       └── duo-sign.js  ← Your backend Duo handler
+package.json            ← Defines dependencies and scripts
